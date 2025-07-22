@@ -78,7 +78,7 @@ FocusFlow/
 
 1. **Clone o repositório**
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/HugoAuroraTech/FocusFlow.git
    cd FocusFlow
    ```
 
@@ -251,8 +251,8 @@ Desenvolvido com ❤️ por Hugo Vinicius
 ### 📞 Suporte
 
 Encontrou um bug ou tem uma sugestão?
-- Abra uma [issue](link-para-issues)
-- Entre em contato: hugovinidc@gmail.com
+- Abra uma [issue](https://github.com/HugoAuroraTech/FocusFlow/issues)
+- Entre em contato: [hugovinidc@gmail.com]
 
 ### 🌟 Agradecimentos
 
